@@ -1,0 +1,292 @@
+{
+  "Prolog" : {
+    "Narrator-00" : "Have you ever heard about the legend of the great red dragon. About the crazy story of the one who defeated it?",
+    "Narrator-01" : "Once the Land was thriving and things where going great. Good weather, good people.",
+    "Narrator-02" : "Until someday some odd things started happening...",
+    "Narrator-03" : "It all started with a new uprising monster which was believed to be the legendary red dragon.",
+    "Narrator-04" : "We write the year 1325 aC. Scattered in the forests of the Land Utoperia more and more villages start to disappear.",
+    "Narrator-05" : "Well, they don't really disappear but rather get diminished by something fast, big and destructive.",
+    "Narrator-06" : "Village after village was destroyed and it only kept worse..",
+    "Narrator-07" : "But the Villages in the east of Utopiria where untouched so far. So far so good..",
+    "Narrator-08" : "That's the point where our hero comes into play.."
+  },
+
+  "theBeginning" : {
+    "Narrator-00" : "Our story begins in a distant corner of eastern Utopiria, nestled within a quiet, unassuming village...",
+    "Narrator-01" : "Birds chirped melodiously, filling the ait with their cheerful tunes as a gentle breeze whispered trough the trees..",
+    "Narrator-02" : "Lukas was just an ordinary guy living an ordinary life. Yet, a quiet unease tugged at the edges of his soul...",
+    "Narrator-03" : "He felt it deep within ... he was meant for something more. More than the quiet legacy of a blacksmith’s son.",
+    "Narrator-04" : "His days passed in the long shadow of his family’s forge, each one echoing the last in a weary, predictable rhythm.",
+    "Narrator-05" : "What haunted Lukas most was how his village remained so eerily calm... while elsewhere, the red dragon brought ruin and fear without mercy.",
+    "Narrator-06" : "One day, he came to a quiet but resolute conclusion: if no one else would stand against the dragon, his village might be next.",
+    "Narrator-07" : "And so, he began to forge a plan...",
+    "Narrator-08" : "Night fell gently over the land. Fireflies drifted like tiny stars through the warm air, frogs croaked in chorus, and the world slowly slipped into slumber.",
+    "Narrator-09" : "But soon that calm scenery was interrupted by some noise..",
+    "Marry-00" : "Lukas, how many times must must we go trough this? Your duties to the village are important!",
+    "Marry-01" : "It is not appropriate to constantly chase after your own dreams!",
+
+    "Lukas-00" : {
+      "React emotional" : "But Mother, I have dreams and ambitions beyond these village borders!",
+      "React angry" : "But Mother, why the hell am I always being held back by you both?",
+      "Try to negotiate" : "But Mother, look at what's going on. Open your eyes! What if our village is next? We could all die!"
+    },
+
+    "Lukas-01" : [
+      "I don't want to spend my whole life only doing what's expected of me!",
+      "I never got to do what I wanted. I always just followed the crowd like some mind-controlled idiot!",
+      "I don't want to lose my parents, I don't want to lose my family, I don't want to lose my friends. I just want this terror to end."
+    ],
+
+    "Paul-00" : [
+      "And what exactly are these dreams, Lukas? Do you think you're the only one who feels the need to achieve something?!",
+      "You aren't an idiot. You're my son! And you didn't just follow the crowd. You played your role in our village’s life.",
+      "I understand, and I'm scared too... but I don't know. If someone could actually face the dragon, it would've already happened."
+    ],
+
+    "Lukas-02" : [
+      "No, Father, but I don't want to be just anybody! I want to accomplish something great—something that will make people marvel!",
+      "Oh come on... seriously! I play a role anyone could easily replace... because it's nothing special. We need someone who can make the dragon stop!",
+      "I know it looks dangerous, I really understand. And I can imagine it must sound terribly crazy... but I have a plan."
+    ],
+
+    "Marry-02" : [
+      "But your grandfather was a talented blacksmith in this village. Your uncle is a skilled merchant. Why isn't that enough for you?",
+      "You have your place—like everyone else. Isn't that something? And what on earth could you possibly do to a dragon with power you can't even imagine?!",
+      "Well, a plan is something. But it needs to be solid. This dragon is the scariest, most terrifying thing Utopiria has ever known."
+    ],
+
+    "Lukas-03" : [
+      "Because I don't want to spend my whole life in the shadows of others.\nBecause I want to forge my own path—create my own legends!",
+      "I am sure it's possible. I know it. And if I don't face him, who else will?",
+     "I understand your concerns, but I'm serious. There is a way. Everything has some kind of weakness—and so does the dragon."
+    ],
+
+    "Paul-01" : [
+      "Your own legends!? That's pure nonsense! You're barely grown and you think you can slay a fire dragon?!",
+      "No, it's not—at least not for you!",
+      "And what kind of weakness could this dragon possibly have? He could just snap his claws and set someone ablaze!"
+    ],
+
+    "Paul-02" : [
+      "That's foolish and dangerous!",
+      "Someone already tried and failed. What makes you believe you can really do it?! You're in over your head!",
+      "Or do you mean the fire core... no, come on, don't tell me that's your idea..."
+    ],
+
+    "Lukas-04" : [
+      "I will prove it! I’m going to slay the Red Fire Dragon that’s terrorizing the land!",
+      "Why wouldn't you believe me?! You're acting like I'm not brave enough. Why is that? I just want everyone to live in peace!",
+      "I know it's a myth... but maybe that's exactly what the dragon uses as the source of his power."
+    ],
+
+    "Lukas-05" : [
+      "And then you’ll see that I am more than just the blacksmith’s son!",
+      "Am I right? You never did. You never really believed in me! That’s so pathetic!",
+    "It all makes sense. Why would a dragon be able to wipe out an entire village in one go? That can’t be normal fire!"
+    ],
+
+    "Marry-03" : [
+      "Lukas, stop! You’re not a knight nor a legend! You’re our son, and we only want what’s best for you.",
+      "That’s rude! You’re not supposed to speak to your father in that tone!",
+      "I’ve heard about that legend too, but I don’t know... Your argument makes sense. A normal dragon wouldn’t be capable of this."
+    ],
+
+    "Lukas-06" : [
+      "You don’t understand me! I have to go and prove that I am more!",
+    "I am not! A real loving father wouldn’t do all this!",
+      "I’m sure it’s possible! I just need to get to that fire core and destroy it... or the dragon."
+    ],
+
+    "Lukas-07" : [
+      "...Maybe then you'll be proud of me... maybe not. But at least I will have saved our village—and maybe even all of Utopiria.",
+      "I hate you guys!",
+     "It’s not going to be easy, and it will be a rough road—but I must try. Please, have I ever disappointed you?"
+    ],
+
+    "Paul-03" : [
+      "Lukas, wait! Come to your senses, my son!",
+      "Okay, that's enough. You'll be under house arrest until you come to your senses again!",
+      "Well... when do you want to leave? I really hope you’re prepared and understand the power you're facing. You’ve convinced me. But be careful. Don’t get yourself killed!"
+    ],
+
+    "Lukas-08" : [
+      "There is nothing more to say, Father. My destiny is not here.\nI will defeat the dragon and free the land from that beast!",
+      "Oh come on! That’s so unfair!!!",
+      "I promise you, I'll come back! No—I *am* coming back, no matter what!"
+    ],
+
+    "Narrator-10" : [
+      "And so Lukas ran away from his family, his village, and left behind all that was familiar to him.",
+      "And so Lukas was locked away until—well, I don’t know how long... What was my line again?",
+      "And so Lukas left his family, his village, and all that was known to him—hoping to someday return with the good news that the dragon had finally fallen."
+    ],
+
+    "Narrator-11" : [
+      "He packed his mighty sword, forged in secret by his own hands.",
+      "Ah, shit! I lost that last part... Anyway, Lukas never even began his adventure—ah, that storyline’s broken, sorry.",
+      "He packed his mighty sword and a few essential supplies..."
+    ],
+
+    "Narrator-12" : "And so, the adventure began..."
+  },
+
+  "theBasement-Thinking" : {
+    "Lukas-00" : "Hmm i can't pull this lever, but why?"
+  },
+
+  "theBasement-Unchained" : {
+    "Lukas-00" : "Nice, that seem to have unblocked the mechanism. Now i should be able to open the gate!"
+  },
+
+  "Forest-Narrator" : {
+    "Narrator-00" : "And so, Lukas began his great adventure. He had left everything behind. There was no turning back now. It was up to him to defeat the dragon.",
+    "Narrator-01" : "Driven by a burning desire to put an end to suffering and misery, he set out on his journey.",
+    "Narrator-02" : "Lukas wandered through the most diverse landscapes...",
+    "Narrator-03" : "He fought his way through dense, shadow-shrouded forests.",
+    "Narrator-04" : "He crossed breathtaking mountains...",
+    "Narrator-05" : "He roamed lush, endless fields...",
+    "Narrator-06" : "Yet deep within, he knew how perilous the mission he had embarked upon truly was.",
+    "Narrator-07" : "His heart pounded between courage and fear, between hope and doubt.",
+    "Narrator-08" : "No one before him had ever dared to stand against the dragon.",
+    "Narrator-09" : "Had the others failed because they lacked courage? Or was he simply overestimating his own strength?",
+    "Narrator-10" : "And why had the dragon unleashed his wrath upon this land in the first place?",
+    "Narrator-11" : "Questions upon questions... Yet Lukas did not waver. No – deep in his heart, he knew: he would succeed. He had to succeed!",
+    "Narrator-12" : "But soon, he came upon an obstacle..."
+  },
+
+  "Mineshaft-QuestStart" : {
+    "Narrator-00" : "Lukas had an Idea to shorten his path. But unfortunately the old mineshaft was collapsed and blocked by a load of rubble.",
+    "Lukas-00" : "Oh no the Mineshaft is blocked! Last time i was here it was still open.",
+    "Lukas-01" : "This must have been the dragon..",
+    "Lukas-02" : "Maybe i can find some leftover dynamite here. Then i could blow that rubble up.."
+  },
+
+  "Mineshaft-QuestEnd" : {
+    "Lukas-00" : "Ok nice. I should have collected enough dynamite now to blow this rubble up and free the entry.",
+    "Lukas-01" : "Now i just need to light it on fire..",
+    "Narrator-11" : "And so Lukas went on and continued his journey."
+  },
+
+  "TradingPlaza-Enter" : {
+    "Narrator-00" : "After traversing trough the old mineshaft, Lukas arrived at a small village known as the Trading Plaza.",
+    "Narrator-01" : "Here you could trade or buy any kinds of goods.",
+    "Narrator-02" : "So he began searching for a shop with a good offer to get some gear and also potentially some nice potions that could help during a fight."
+  },
+
+  "TheAmbush-Introduction" : {
+    "Narrator-00" : "The next view day of traveling where calm and quiet. Nothing special was happening... almost too quiet..",
+    "Narrator-01" : "'Ahh i must be paranoid.. why should now someone out of the blue come and attack me or something..' Lukas thought by him self.",
+    "Narrator-02" : "Back in the village Lukas was able to get his hands on some nice armor and sword upgrades as well as some quite powerful potions.",
+    "Narrator-03" : "With that good of an equipment - what should him haunt?",
+    "Narrator-04" : "Soon his equip should become really handy.."
+  },
+
+  "TheAmbush-TheStart" : {
+    "Barbarian-00" : "There he is!! Get him!",
+    "Lukas-00" : "Oh shoot! An Ambush! I knew something wasn't right!",
+    "Lukas-01" : "Hey guys hold on! What do you guys want from me huh!",
+    "Barionobus-00" : "What we want?! Hahaha..you of course, you and all your goods. We are coming in behalf of the Great Dragon.",
+    "Barionobus-01" : "Did you fool really thought about getting away with your idea to kill the greatest ruler that ever lived. Ha.. you moron.",
+    "Lukas-02" : "You guys are working for a dragon that is literally burning down everything we know! Don't you guys care about that..",
+    "Lukas-03" : "The only Moron I see are you.. you are following blindly orders coming from a Monster that's only caring about it self and no one else.",
+    "Lukas-04" : "That's dumb if you ask me..",
+    "Barionobus-02" : "Ok that is enough!! Go get him!",
+    "Lukas-05" : {
+      "Try negotiating" : "Wowowo is this really how you guys handle stuff. Come on, let's be real, do we really need to fight this out?!",
+      "Fight them" : "Well i gave you a chance, now it's over for you!"
+    },
+    "Barbarians-00" : [
+      "OK what on earth can you possibly give us huh.. Got some gold or anything? I do nothing for nobody for nothing..",
+      "Geeeet hiimmm!!"
+    ],
+    "Lukas-06" : [
+      "Well i have some gold, silver and coins left. That's what i could give you in exchange for my freedom and a chance to save Utopiria.",
+      ""
+    ],
+    "Barionobus-03" : [
+      "Ok sure, but we want everything!",
+      ""
+    ],
+    "Lukas" : [
+      "Ok ok calm down.. i am not joking, deal is deal. I a man of honor. Deal is deal.",
+      ""
+    ],
+    "Barionobus-04" : [
+      "But be sure - if you ever step in out way again, we will come and get you!",
+      ""
+    ],
+
+    "Lukas-07" : "..."
+  },
+
+  "TheAmbush-Trolls" : {
+    "Lukas-00" : "Why are they coming back again..?",
+    "Barionobus-00" : "Ha did you really thought you can fool me?!",
+    "Barionobus-01" : "Go get em!!",
+    "Barbarians-00" : "No he is cooked!",
+    "Lukas-01" : "Sure so be it..Left's fight. But you guys are going down!"
+  },
+
+  "TheAmbush-FightWon" : {
+    "Lukas-00" : "Finally. They shouldn't annoy me anymore. I realy hope this was the last encounter with those goons.",
+    "Narrator-00" : "And so the adventure continued..."
+  },
+
+  "TheGreatDragonFight" : {
+    "Narrator-00" : "After dozens of days, after countless obstacles overcome, after so much hoping and fighting, our hero finally reaches the Valley of Darkness.",
+    "Narrator-01" : "Only a few miles now separate him from the Fire Dragon. Brave and resolute, determined to finish what he once began, Lukas sets out toward the heart of this dark domain.",
+    "Narrator-02" : "Guided by the ever-burning hope to defeat the dragon once and for all and bring peace to the land, he presses on.",
+    "Narrator-03" : "The air is heavy and thick with sulfur. A distant rumble echoes through the valley, like the breath of an ancient beast barely able to contain its rage.",
+    "Narrator-04" : "Then—thunder. The ground trembles. Between smoke and flame, the dragon rises. Its scales glow like molten iron, its eyes blazing with ancient hatred.",
+    "Narrator-05" : "For a moment, Lukas stands still. Fear and determination clash within him, but then he tightens his grip on his sword. The moment of truth has come..."
+  },
+
+  "TheFinalFaceOf" : {
+    "The Dragon-00" : "I've been waiting for you... At this point I am not even wondering anymore..",
+    "The Dragon-01" : "There where multiples who thought of their self as THE Knight to finish me ahaha... but guess what..",
+    "The Dragon-02" : "Everyone failed - they where not even close.. ahaha those poor bastards..",
+    "The Dragon-03" : "And now another one.. i am getting tired of this.. You little human can't even comprehend who you are facing..",
+    "The Dragon-04" : "I mean look at you.. do you really think you are able to bring me down with that little tooth pick. What a fool you are!",
+    "The Dragon-05" : "I am going to fry you in one shot ahahaha..",
+    "Lukas-00" : "Are you trying to impress me or what.. just stop the yap and shut up.",
+    "The Dragon-06" : "Wowowo that little human speaks some big words right there hahaha. You moron, what are you even thinking! Hahahah.",
+    "Lukas-01" : "I should be the one laughing. I mean who is the coward here...tell you what - it's you. You are so powerful, so strong and still you feel the need to harm innocent individuals!",
+    "Lukas-02" : "Let's get this done. I am going to show what i am capable of!",
+    "Narrator-00" : "And so the fight of the century began..."
+  },
+
+  "TheFinalFaceOfEnd" : {
+    "The Dragon-00" : "This is...impossible!!!!",
+    "The Dragon-01" : "Arghhhhh",
+    "Narrator-00" : "And then the great, mighty dragon fell with a loud rumble, so that the earth trembled. It was over!",
+    "Narrator-01" : "Lukas has actually done it. He defeated the legendary dragon.",
+    "Lukas-00" : "I can't believe it. After all this time this finally came to an end.",
+    "Lukas-01" : "Now everyone can enjoy piece again!",
+    "Lukas-02" : "Huraaaaaaa!!!"
+  },
+
+  "Epilogue" : {
+    "Narrator-00" : "After some restless nights of traveling pushed by the impact he had made, Lukas finally arrived back at his home village.",
+    "Narrator-01" : "The village was filled by a big crowd applauding him. He wasn't even able so back for a minute and let everything sink in..",
+    "Narrator-02" : "Compliments coming from left and right...from everywhere..",
+    "Narrator-03" : "Completely overwhelmed and incredibly happy a tear ran down his cheek...",
+    "Narrator-04" : "Utopiria was free again!"
+  },
+
+  "Test" : {
+    "Bob-01" : "Hello, this is a test!",
+    "Bobby-01" : "Ok what would you like to test?",
+    "Bob-02" : {
+      "Nothing" : "I want to test nothing.",
+      "Dialog System Test" : "I want to test this Dialog System.",
+      "System Test" : "I try to test this System."
+    },
+    "Bobby-02" : [
+      "Ok, i guess then just finish the dialog",
+      "The System seems to be working.",
+      "Seems like it worked!"
+    ],
+    "Bob-03" : "Ok, bye!",
+    "Bobby-03" : "Bye!"
+  }
+}

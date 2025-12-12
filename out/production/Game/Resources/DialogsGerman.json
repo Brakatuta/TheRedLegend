@@ -1,0 +1,291 @@
+{
+  "Prolog" : {
+    "Narrator-00" : "Habt ihr jemals von der Legende des **großen roten Drachen** gehört? Von der wahnsinnigen Geschichte des Einen, der ihn besiegte?",
+    "Narrator-01" : "Einst blühte das Land, und alles lief prächtig. Gutes Wetter, gute Menschen.",
+    "Narrator-02" : "Bis eines Tages seltsame Dinge geschahen...",
+    "Narrator-03" : "Alles begann mit einem neu aufgestiegenen Ungeheuer, von dem man glaubte, es sei der legendäre rote Drache.",
+    "Narrator-04" : "Wir schreiben das Jahr 1325 nach Christus. Verstreut in den Wäldern des Landes **Utopiria** beginnen immer mehr Dörfer zu verschwinden.",
+    "Narrator-05" : "Nun, sie verschwinden nicht wirklich, sondern werden von etwas Schnellem, Großem und Zerstörerischem **niedergerungen**.",
+    "Narrator-06" : "Dorf um Dorf wurde vernichtet, und es wurde nur noch schlimmer...",
+    "Narrator-07" : "Doch die Dörfer im Osten Utopirias waren bisher unberührt. So weit, so gut...",
+    "Narrator-08" : "Das ist der Punkt, an dem unser **Held** ins Spiel kommt..."
+  },
+
+  "theBeginning" : {
+    "Narrator-00" : "Unsere Geschichte beginnt in einem fernen Winkel des östlichen Utopirias, eingebettet in einem ruhigen, unscheinbaren Dorf...",
+    "Narrator-01" : "Vögel zwitscherten melodiös und füllten die Luft mit ihren fröhlichen Weisen, während ein sanfter Wind durch die Bäume **raunte**...",
+    "Narrator-02" : "**Lukas** war nur ein gewöhnlicher Kerl, der ein gewöhnliches Leben führte. Dennoch nagte eine leise Unruhe an den Rändern seiner Seele...",
+    "Narrator-03" : "Er spürte tief im Inneren... er war für **mehr** bestimmt. Mehr als das ruhige Erbe eines **Schmiedesohns**.",
+    "Narrator-04" : "Seine Tage vergingen im langen Schatten der Familienschmiede, jeder Tag hallte im ermüdenden, vorhersehbaren Rhythmus des letzten nach.",
+    "Narrator-05" : "Was Lukas am meisten quälte, war, dass sein Dorf so **unheimlich ruhig** blieb... während anderswo der rote Drache ohne Gnade Verderben und Angst brachte.",
+    "Narrator-06" : "Eines Tages fasste er einen stillen, aber entschlossenen Entschluss: Wenn niemand sonst sich dem Drachen entgegenstellen würde, **könnte sein Dorf das nächste sein**.",
+    "Narrator-07" : "Und so begann er, einen **Plan** zu schmieden...",
+    "Narrator-08" : "Die Nacht brach sanft über das Land herein. Glühwürmchen tanzten wie winzige Sterne durch die warme Luft, Frösche quakten im Chor, und die Welt sank langsam in den Schlummer.",
+    "Narrator-09" : "Doch bald wurde diese friedliche Szenerie von etwas Lärm unterbrochen...",
+    "Marry-00" : "Lukas, wie oft müssen wir das noch durchmachen? Deine Pflichten dem Dorf gegenüber sind **wichtig**!",
+    "Marry-01" : "Es gehört sich nicht, ständig **deinen eigenen Träumen nachzujagen**!",
+
+    "Lukas-00" : {
+      "React emotional" : "Aber Mutter, ich habe Träume und Ambitionen, die über diese Dorfgrenzen hinausgehen!",
+      "React angry" : "Aber Mutter, warum zur Hölle werde ich von euch beiden ständig **zurückgehalten**?",
+      "Try to negotiate" : "Aber Mutter, sieh doch, was vor sich geht. Öffne deine Augen! Was, wenn unser Dorf das nächste ist? Wir könnten alle sterben!"
+    },
+
+    "Lukas-01" : [
+      "Ich will nicht mein ganzes Leben damit verbringen, nur das zu tun, was von mir erwartet wird!",
+      "Ich durfte nie das tun, was ich wollte. Ich bin immer nur der **Masse gefolgt**, wie so ein ferngesteuerter Idiot!",
+      "Ich will meine Eltern nicht verlieren, ich will meine Familie nicht verlieren, ich will meine Freunde nicht verlieren. Ich will nur, dass dieser **Terror ein Ende hat**."
+    ],
+
+    "Paul-00" : [
+      "Und was genau sind diese Träume, Lukas? Glaubst du, du bist der Einzige, der das Bedürfnis hat, etwas zu erreichen?!",
+      "Du bist kein Idiot. Du bist mein Sohn! Und du bist nicht einfach der Masse gefolgt. Du hast deine **Rolle** im Leben unseres Dorfes gespielt.",
+      "Ich verstehe, und ich habe auch Angst... aber ich weiß nicht. Wenn jemand dem Drachen wirklich die Stirn bieten könnte, wäre es **schon passiert**."
+    ],
+
+    "Lukas-02" : [
+      "Nein, Vater, aber ich will nicht *irgendjemand* sein! Ich will etwas **Großartiges** vollbringen – etwas, das die Menschen staunen lässt!",
+      "Ach, komm schon... ernsthaft! Ich spiele eine Rolle, die jeder leicht ersetzen könnte... weil sie nichts Besonderes ist. Wir brauchen jemanden, der den Drachen **zum Schweigen bringen** kann!",
+      "Ich weiß, es sieht gefährlich aus, ich verstehe das wirklich. Und ich kann mir vorstellen, dass es **schrecklich verrückt** klingen muss... aber ich habe einen Plan."
+    ],
+
+    "Marry-02" : [
+      "Aber dein Großvater war ein talentierter Schmied in diesem Dorf. Dein Onkel ist ein geschickter Händler. Warum ist das nicht genug für dich?",
+      "Du hast deinen Platz – wie jeder andere auch. Ist das denn nichts? Und was um alles in der Welt könntest du mit einem Drachen anstellen, dessen Macht du dir nicht einmal vorstellen kannst?!",
+      "Nun, ein Plan ist etwas. Aber er muss **fundiert** sein. Dieser Drache ist das Furchteinflößendste und Schrecklichste, was Utopiria je erlebt hat."
+    ],
+
+    "Lukas-03" : [
+      "Weil ich nicht mein ganzes Leben im **Schatten** anderer verbringen will.\nWeil ich meinen **eigenen Weg** gehen will – meine **eigenen Legenden** erschaffen!",
+      "Ich bin mir sicher, dass es möglich ist. Ich weiß es. Und wenn ich mich ihm nicht stelle, **wer dann**?",
+     "Ich verstehe eure Bedenken, aber es ist mir ernst. Es gibt einen Weg. Alles hat irgendeine Art von **Schwäche** – und der Drache auch."
+    ],
+
+    "Paul-01" : [
+      "Deine eigenen Legenden!? Das ist purer **Unsinn**! Du bist kaum erwachsen, und du glaubst, du könntest einen Feuerdrachen erschlagen?!",
+      "Nein, ist es nicht – zumindest nicht für dich!",
+      "Und welche Art von Schwäche könnte dieser Drache überhaupt haben? Er könnte einfach mit seinen Klauen zuschnappen und jemanden in Brand setzen!"
+    ],
+
+    "Paul-02" : [
+      "Das ist **dumm und gefährlich**!",
+      "Jemand hat es schon versucht und ist gescheitert. Was lässt dich glauben, dass *du* es wirklich schaffen kannst?! Das ist eine Nummer zu groß für dich!",
+      "Oder meinst du den **Feuerkern**... nein, komm schon, sag mir nicht, das ist deine Idee..."
+    ],
+
+    "Lukas-04" : [
+      "Ich werde es beweisen! Ich werde den **Roten Feuerdrachen** erschlagen, der das Land terrorisiert!",
+      "Warum wollt ihr mir nicht glauben?! Ihr tut so, als wäre ich nicht mutig genug. Warum ist das so? Ich will doch nur, dass alle in Frieden leben!",
+      "Ich weiß, es ist ein Mythos... aber vielleicht ist genau das die **Quelle seiner Macht**, die der Drache benutzt."
+    ],
+
+    "Lukas-05" : [
+      "Und dann werdet ihr sehen, dass ich mehr bin als nur der Sohn des Schmieds!",
+      "Habe ich recht? Ihr habt es nie getan. Ihr habt nie wirklich an mich **geglaubt**! Das ist so erbärmlich!",
+    "Es ergibt alles einen Sinn. Warum sollte ein Drache ein ganzes Dorf auf einmal auslöschen können? Das kann **kein normales Feuer** sein!"
+    ],
+
+    "Marry-03" : [
+      "Lukas, hör auf! Du bist weder ein Ritter noch eine Legende! Du bist unser Sohn, und wir wollen nur das Beste für dich.",
+      "Das ist unhöflich! Du hast nicht in diesem Ton mit deinem Vater zu sprechen!",
+      "Ich habe auch von dieser Legende gehört, aber ich weiß nicht... Dein Argument ergibt Sinn. Ein normaler Drache wäre **nicht zu so etwas fähig**."
+    ],
+
+    "Lukas-06" : [
+      "Ihr versteht mich nicht! Ich muss gehen und beweisen, dass ich **mehr** bin!",
+    "Bin ich nicht! Ein wirklich liebender Vater würde das alles nicht tun!",
+      "Ich bin mir sicher, dass es möglich ist! Ich muss nur zu diesem Feuerkern gelangen und ihn zerstören... oder den Drachen."
+    ],
+
+    "Lukas-07" : [
+      "...Vielleicht seid ihr dann stolz auf mich... vielleicht auch nicht. Aber zumindest werde ich unser Dorf gerettet haben – und vielleicht sogar **ganz Utopiria**.",
+      "Ich hasse euch!",
+     "Es wird nicht einfach sein, und es wird ein harter Weg – aber ich muss es versuchen. Bitte, habe ich euch jemals enttäuscht?"
+    ],
+
+    "Paul-03" : [
+      "Lukas, warte! Besinne dich, mein Sohn!",
+      "Okay, das reicht. Du stehst unter Hausarrest, bis du wieder zur Vernunft gekommen bist!",
+      "Nun... wann willst du aufbrechen? Ich hoffe wirklich, du bist vorbereitet und verstehst die Macht, der du dich stellst. Du hast mich **überzeugt**. Aber sei vorsichtig. Lass dich nicht töten!"
+    ],
+
+    "Lukas-08" : [
+      "Es gibt nichts mehr zu sagen, Vater. Mein Schicksal liegt nicht hier.\nIch werde den Drachen besiegen und das Land von diesem **Biest** befreien!",
+      "Ach, komm schon! Das ist so **unfair**!!!",
+      "Ich verspreche euch, ich werde zurückkommen! Nein – ich **werde** zurückkommen, egal was passiert!"
+    ],
+
+    "Narrator-10" : [
+      "Und so **floh Lukas** vor seiner Familie, seinem Dorf, und ließ alles Vertraute hinter sich.",
+      "Und so wurde Lukas weggesperrt, bis – nun ja, ich weiß nicht, wie lange... Was war noch mal mein Satz?",
+      "Und so verließ Lukas seine Familie, sein Dorf und alles, was ihm bekannt war – in der Hoffnung, eines Tages mit der **guten Nachricht** zurückzukehren, dass der Drache endlich gefallen war."
+    ],
+
+    "Narrator-11" : [
+      "Er packte sein **mächtiges Schwert**, das er heimlich mit eigenen Händen geschmiedet hatte.",
+      "Ach, Mist! Ich habe diesen letzten Teil verloren... Jedenfalls hat Lukas sein Abenteuer nie begonnen – ah, die Handlung ist kaputt, tut mir leid.",
+      "Er packte sein **mächtiges Schwert** und ein paar essentielle Vorräte..."
+    ],
+
+    "Narrator-12" : "Und so begann das **Abenteuer**..."
+  },
+
+  "theBasement-Thinking" : {
+    "Lukas-00" : "Hmm, ich kann diesen Hebel nicht ziehen, aber warum?"
+  },
+
+  "theBasement-Unchained" : {
+    "Lukas-00" : "Super, das scheint den Mechanismus freigegeben zu haben. Jetzt sollte ich das Tor öffnen können!"
+  },
+
+  "Forest-Narrator" : {
+    "Narrator-00" : "Und so begann Lukas sein großes Abenteuer. Er hatte alles hinter sich gelassen. Es gab kein Zurück mehr. Es lag an ihm, den Drachen zu besiegen.",
+    "Narrator-01" : "Angetrieben von einem brennenden Verlangen, dem Leiden und dem Elend ein Ende zu setzen, machte er sich auf seine Reise.",
+    "Narrator-02" : "Lukas durchstreifte die unterschiedlichsten Landschaften...",
+    "Narrator-03" : "Er kämpfte sich durch **dichte, schattenverhangene Wälder**.",
+    "Narrator-04" : "Er überquerte **atemberaubende Berge**...",
+    "Narrator-05" : "Er durchstreifte **saftige, endlose Felder**...",
+    "Narrator-06" : "Doch tief im Inneren wusste er, wie **gefährlich** die Mission war, auf die er sich eingelassen hatte.",
+    "Narrator-07" : "Sein Herz **poche zwischen Mut und Furcht**, zwischen Hoffnung und Zweifel.",
+    "Narrator-08" : "Niemand vor ihm hatte es je gewagt, sich dem Drachen entgegenzustellen.",
+    "Narrator-09" : "Waren die anderen gescheitert, weil es ihnen an Mut fehlte? Oder überschätzte er einfach seine eigene Stärke?",
+    "Narrator-10" : "Und warum hatte der Drache überhaupt seinen Zorn über dieses Land entfesselt?",
+    "Narrator-11" : "Fragen über Fragen... Doch Lukas ließ sich nicht beirren. Nein – tief in seinem Herzen wusste er: Er würde Erfolg haben. Er **musste** Erfolg haben!",
+    "Narrator-12" : "Doch bald stieß er auf ein Hindernis..."
+  },
+
+  "Mineshaft-QuestStart" : {
+    "Narrator-00" : "Lukas hatte die Idee, seinen Weg abzukürzen. Doch leider war der alte Minenschacht **eingestürzt** und durch eine Menge Geröll blockiert.",
+    "Lukas-00" : "Oh nein, der Minenschacht ist blockiert! Das letzte Mal, als ich hier war, war er noch offen.",
+    "Lukas-01" : "Das muss der Drache gewesen sein...",
+    "Lukas-02" : "Vielleicht finde ich hier noch etwas **Dynamit**. Dann könnte ich das Geröll in die Luft sprengen..."
+  },
+
+  "Mineshaft-QuestEnd" : {
+    "Lukas-00" : "Okay, super. Ich sollte jetzt genug Dynamit gesammelt haben, um das Geröll wegzusprengen und den Eingang freizumachen.",
+    "Lukas-01" : "Jetzt muss ich es nur noch anzünden...",
+    "Narrator-11" : "Und so zog Lukas weiter und setzte seine Reise fort."
+  },
+
+  "TradingPlaza-Enter" : {
+    "Narrator-00" : "Nachdem Lukas den alten Mineshaft durchqeurt hatte, kam er an einem kleinen kleinen Village vorbei - dem Trading Plaza.",
+    "Narrator-01" : "Hier konnte man alle möglichen Waren kaufen und handeln.",
+    "Narrator-02" : "Da er sich bewusst war, wie schwer ein Kampf gegen den Drachen werden würde, begab er sich also auf die Suche nach nützlicher Ausrüstung und Potions."
+  },
+
+  "TheAmbush-Introduction" : {
+    "Narrator-00" : "Die nächsten paar Reisetage verliefen ruhig und friedlich. Nichts Besonderes geschah… fast schon zu ruhig…",
+    "Narrator-01" : "‚Ahh, ich werde wohl paranoid… warum sollte plötzlich irgendwer aus dem Nichts auftauchen und mich angreifen…‘ dachte Lukas bei sich.",
+    "Narrator-02" : "Im Dorf war es Lukas gelungen, an gute Rüstungs- und Schwertverbesserungen zu kommen, sowie an einige ziemlich mächtige Tränke.",
+    "Narrator-03" : "Mit solch guter Ausrüstung – was sollte ihm da schon gefährlich werden?",
+    "Narrator-04" : "Schon bald sollte sich seine Ausrüstung als äußerst nützlich erweisen…"
+  },
+
+  "TheAmbush-TheStart" : {
+    "Barbarian-00" : "Da ist er!! Schnappt ihn!",
+    "Lukas-00" : "Oh verdammt! Ein Hinterhalt! Ich wusste doch, irgendwas stimmt nicht!",
+    "Lukas-01" : "Hey Leute, wartet mal! Was wollt ihr überhaupt von mir, huh?!",
+    "Barionobus-00" : "Was wir wollen?! Hahaha… dich natürlich! Dich und all deine Güter. Wir kommen im Auftrag des Großen Drachen.",
+    "Barionobus-01" : "Habt ihr Narren wirklich gedacht, ihr kommt damit durch, den größten Herrscher aller Zeiten töten zu wollen? Ha… du Idiot.",
+    "Lukas-02" : "Ihr arbeitet für einen Drachen, der buchstäblich alles niederbrennt, was wir kennen! Ist euch das etwa egal…?",
+    "Lukas-03" : "Der einzige Idiot hier bist du… ihr folgt blind den Befehlen eines Monsters, das sich nur um sich selbst schert und um niemanden sonst.",
+    "Lukas-04" : "Wenn du mich fragst, ist das ziemlich dumm…",
+    "Barionobus-02" : "Okay, das reicht!! Holt ihn!",
+    "Lukas-05" : {
+      "Try negotiating" : "Wowowo, ist das wirklich eure Art, Dinge zu klären? Mal ehrlich, müssen wir das wirklich mit Gewalt lösen?!",
+      "Fight them" : "Nun, ich habe euch eine Chance gegeben. Jetzt ist es vorbei mit euch!"
+    },
+    "Barbarians-00" : [
+      "OK, was willst du uns schon groß geben, huh… Hast du Gold oder sonst was? Ich tu nix für niemanden umsonst…",
+      "Schnappt ihnnn!!"
+    ],
+    "Lukas-06" : [
+      "Nun, ich habe noch etwas Gold, Silber und ein paar Münzen übrig. Das könnte ich euch geben – im Austausch für meine Freiheit und die Chance, Utopiria zu retten.",
+      ""
+    ],
+    "Barionobus-03" : [
+      "Okay, sicher. Aber wir wollen alles!",
+      ""
+    ],
+    "Lukas" : [
+      "Ok ok, beruhigt euch… ich mache keine Witze. Ein Deal ist ein Deal. Ich bin ein Mann der Ehre.",
+      ""
+    ],
+    "Barionobus-04" : [
+      "Aber merke dir eins – wenn du uns jemals wieder in die Quere kommst, holen wir dich!",
+      ""
+    ],
+    "Lukas-07" : "..."
+  },
+
+  "TheAmbush-Trolls" : {
+    "Lukas-00" : "Warum kommen die schon wieder zurück…?",
+    "Barionobus-00" : "Ha, hast du wirklich gedacht, du kannst mich verarschen?!",
+    "Barionobus-01" : "Los, holt ihn!!",
+    "Barbarians-00" : "Nein, er ist fällig!",
+    "Lukas-01" : "Na schön, so sei es… Dann lasst uns kämpfen. Aber dieses Mal seid ihr dran!"
+  },
+
+  "TheAmbush-FightWon" : {
+    "Lukas-00" : "Endlich. Jetzt sollten sie mich nicht mehr nerven. Ich hoffe wirklich, das war die letzte Begegnung mit diesen Trotteln.",
+    "Narrator-00" : "Und so setzte sich das Abenteuer fort…"
+  },
+
+  "TheGreatDragonFight" : {
+    "Narrator-00" : "Nach Dutzenden von Tagen, nach unzähligen überwundenen Hindernissen, nach so viel Hoffen und Kämpfen, erreicht unser Held endlich das **Tal der Dunkelheit**.",
+    "Narrator-01" : "Nur wenige Meilen trennen ihn noch vom Feuerdrachen. Mutig und entschlossen, fest entschlossen, zu beenden, was er einst begann, macht Lukas sich auf den Weg zum **Herzen dieser dunklen Domäne**.",
+    "Narrator-02" : "Geleitet von der ewig brennenden Hoffnung, den Drachen ein für alle Mal zu besiegen und dem Land Frieden zu bringen, drängt er voran.",
+    "Narrator-03" : "Die Luft ist **schwer und dick von Schwefel**. Ein fernes Grollen hallt durch das Tal, wie der Atem eines uralten Tieres, das seine Wut kaum zügeln kann.",
+    "Narrator-04" : "Dann – **Donner**. Der Boden bebt. Zwischen Rauch und Flammen **erhebt sich der Drache**. Seine Schuppen glühen wie geschmolzenes Eisen, seine Augen lodern von **uraltem Hass**.",
+    "Narrator-05" : "Für einen Moment verharrt Lukas. Angst und Entschlossenheit prallen in ihm aufeinander, doch dann umklammert er sein Schwert fester. Der **Moment der Wahrheit** ist gekommen..."
+  },
+
+  "TheFinalFaceOf" : {
+    "The Dragon-00" : "Ich habe auf dich gewartet... Mittlerweile wundert es mich nicht einmal mehr...",
+    "The Dragon-01" : "Es gab mehrere, die sich für **DEN** Ritter hielten, der mich zur Strecke bringen würde, ahaha... aber rate mal, was...",
+    "The Dragon-02" : "Jeder ist gescheitert – sie waren nicht einmal nah dran... ahaha, diese armen Wichte...",
+    "The Dragon-03" : "Und jetzt noch einer... Ich werde langsam müde davon... Du kleiner Mensch kannst nicht einmal begreifen, wem du gegenüberstehst...",
+    "The Dragon-04" : "Ich meine, sieh dich an... Glaubst du wirklich, du kannst mich mit diesem kleinen Zahnstocher besiegen? Was für ein Narr du bist!",
+    "The Dragon-05" : "Ich werde dich mit einem Schuss braten, ahahaha...",
+    "Lukas-00" : "Versuchst du, mich zu beeindrucken, oder was... hör einfach auf zu quatschen und halt den Mund.",
+    "The Dragon-06" : "Wowowo, der kleine Mensch spuckt aber **große Töne** aus, hahaha. Du Idiot, was denkst du dir eigentlich dabei! Hahahah.",
+    "Lukas-01" : "Ich sollte derjenige sein, der lacht. Ich meine, wer ist hier der **Feigling**... ich sage dir – du bist es. Du bist so mächtig, so stark und trotzdem fühlst du dich genötigt, unschuldige Individuen zu verletzen!",
+    "Lukas-02" : "Lass es uns hinter uns bringen. Ich werde dir zeigen, wozu ich fähig bin!",
+    "Narrator-00" : "Und so begann der **Kampf des Jahrhunderts**..."
+  },
+
+  "TheFinalFaceOfEnd" : {
+    "The Dragon-00" : "Das ist... **unmöglich**!!!!",
+    "The Dragon-01" : "Arrgghhhhh",
+    "Narrator-00" : "Und dann fiel der große, mächtige Drache mit einem lauten Grollen, so dass die Erde bebte. Es war **vorbei**!",
+    "Narrator-01" : "Lukas hat es tatsächlich geschafft. Er besiegte den legendären Drachen.",
+    "Lukas-00" : "Ich kann es nicht glauben. Nach all dieser Zeit hat das endlich ein Ende.",
+    "Lukas-01" : "Jetzt können alle wieder **Frieden** genießen!",
+    "Lukas-02" : "**Huraaaaaaa**!!!"
+  },
+
+  "Epilogue" : {
+    "Narrator-00" : "Nach einigen rastlosen Reisetagen, angetrieben von der Wirkung, die er erzielt hatte, kam Lukas schließlich in sein Heimatdorf zurück.",
+    "Narrator-01" : "Das Dorf war gefüllt mit einer großen Menge, die ihm **applaudierte**. Er war nicht einmal in der Lage, für eine Minute innezuhalten und alles sacken zu lassen...",
+    "Narrator-02" : "Komplimente kamen von links und rechts... von überallher...",
+    "Narrator-03" : "Völlig überwältigt und unglaublich glücklich, lief ihm eine **Träne über die Wange**...",
+    "Narrator-04" : "Utopiria war wieder **frei**!"
+  },
+
+  "Test" : {
+    "Bob-01" : "Hallo, das ist ein Test!",
+    "Bobby-01" : "Okay, was möchtest du testen?",
+    "Bob-02" : {
+      "Nothing" : "Ich möchte nichts testen.",
+      "Dialog System Test" : "Ich möchte dieses Dialogsystem testen.",
+      "System Test" : "Ich versuche, dieses System zu testen."
+    },
+    "Bobby-02" : [
+      "Okay, ich schätze, dann beende einfach den Dialog",
+      "Das System scheint zu funktionieren.",
+      "Sieht aus, als hätte es funktioniert!"
+    ],
+    "Bob-03" : "Okay, tschüss!",
+    "Bobby-03" : "Tschüss!"
+  }
+}
