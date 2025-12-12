@@ -1,2 +1,4 @@
 # TheRedLegend
-The Red Legend Game made with Java
+
+"The Red Legend" is a game that i made purely in Java.
+Have fun!
